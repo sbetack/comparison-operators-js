@@ -1,62 +1,72 @@
 document.addEventListener('DOMContentLoaded', function() {
 // We can compare numbers
-//Predict true or false. Then, console log the code version to see if you were right.
+// Write the code equivalent of the sentence in the console.log, then predict whether your code will print true or false.
 
-/////////////////////
-//////EXAMPLE///////
-///////////////////
+//////////////////////
+///////EXAMPLE////////
+//////////////////////
+
 console.log("10 is less than 150")
-// my guess: true
-// write the javascript code below
+// Console log the code version below
 console.log(10 < 150)
-/////////////////
+// my prediction: true
+
+//////////////////////
+//////////////////////
+//////////////////////
+
+
 
 console.log("1 is greater than or equal to 0") 
-// my guess:
-// write the javascript code below 
+// Console log the code equivalent below
 
+// my prediction: 
 
 console.log("7 is greater than 15")
-// my guess:
-// write the javascript code below
+// Console log the code equivalent below
 
+// my prediction: 
 
-// This works with strings too!
+console.log('The string "apple" is equal "apple"') // This works with strings too!
+// Console log the code equivalent below
 
-console.log('The string "apple" is equal "apple"')
-// my guess:
-// write the javascript code below
+// my prediction: 
 
 
 console.log('The string "apple" is equal "orange"')
-// my guess:
-// write the javascript code below
+// Console log the code equivalent below
+
+// my prediction: 
 
 
 console.log('The string "apple" is not equal to "apple"')
-// my guess:
-// write the javascript code below
+// Console log the code equivalent below
+
+// my prediction: 
 
 
 console.log('The string "apple" is not equal to "orange""')
-// my guess:
-// write the javascript code below
+// Console log the code equivalent below
+
+// my prediction: 
 
 
 // This works with variables too!
 var myFavoriteColor = "blue"
-
 console.log('The variable myFavoriteColor is equal to the string "blue"')
-// my guess:
-// write the javascript code below
+// Console log the code equivalent below
+
+// my prediction: 
 
 console.log('The variable myFavoriteColor is not equal to the string "red"')
-// my guess:
-// write the javascript code below
+// Console log the code equivalent below
+
+// my prediction: 
 
 console.log('The variable myFavoriteColor is equal to the string "purple"')
-// my guess:
-// write the javascript code below
+// Console log the code equivalent below
+
+// my prediction: 
 
 
 
@@ -71,19 +81,22 @@ var likesCats = true;
 
 // Predict if the combination will be true, then code it out to see if you're right.
 console.log("I like computers and I like sports")
-// my guess: 
-// write the javascript code below
+// Console log the code equivalent below
+
+// my prediction: 
 
 
 // We can see whether one of two booleans is true using || (OR)
-console.log("I like sports and I like knitting")
-// my guess: 
-// write the javascript code below
+console.log("I like sports or I like knitting")
+// Console log the code equivalent below
+
+// my prediction: 
 
 
 console.log("I like knitting or I like dogs")
-// my guess: 
-// write the javascript code below
+// Console log the code equivalent below
+
+// my prediction: 
 
 
 });
