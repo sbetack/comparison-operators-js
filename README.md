@@ -9,7 +9,7 @@
 | >=            | greater than or equal to   |
 | <             | less than                  |
 | >             | greater than               |
-| ||            | or                         |
+| `||`          | or                         |
 | &&            | and                        |
 
 
