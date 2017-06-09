@@ -9,8 +9,9 @@
 | >=            | greater than or equal to   |
 | <             | less than                  |
 | >             | greater than               |
-| &&            | and                        |
 | ||            | or                         |
+| &&            | and                        |
+
 
 
 ### Your mission:
