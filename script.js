@@ -7,11 +7,13 @@ document.addEventListener('DOMContentLoaded', function() {
 ///////////////////
 console.log("10 is less than 150")
 // my guess: true
+// write the javascript code below
 console.log(10 < 150)
 /////////////////
 
 console.log("1 is greater than or equal to 0") 
-// my guess: 
+// my guess:
+// write the javascript code below 
 
 
 console.log("7 is greater than 15")
