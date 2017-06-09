@@ -5,48 +5,83 @@ document.addEventListener('DOMContentLoaded', function() {
 /////////////////////
 //////EXAMPLE///////
 ///////////////////
-console.log("10 is less than 150?")
+console.log("10 is less than 150")
 // my guess: true
 console.log(10 < 150)
 /////////////////
 
-console.log("1 is greater than or equal to 0:") 
+console.log("1 is greater than or equal to 0") 
 // my guess: 
 
 
-// # We can check whether data matches
-// # or does not match (works on any type)
+console.log("7 is greater than 15")
+// my guess:
+// write the javascript code below
 
-// puts "An apple is equal to an apple:"
-// p "apple" == "apple"
 
-// puts "An apple is equal to an orange:"
-// p "apple" == "orange"
+// This works with strings too!
 
-// puts "An apple is not equal to an apple:"
-// p "apple" != "apple"
+console.log('The string "apple" is equal "apple"')
+// my guess:
+// write the javascript code below
 
-// puts "An apple is not equal to an orange:"
-// p "apple" != "orange"
 
-// # We can see whether two booleans are both true:
-// i_like_computers = true
-// i_like_sports = true
-// i_like_knitting = false
-// i_like_dogs = false
-// i_like_cats = true
+console.log('The string "apple" is equal "orange"')
+// my guess:
+// write the javascript code below
 
-// puts "I like computers and I like sports:"
-// p i_like_computers && i_like_sports
 
-// puts "I like sports and I like knitting:"
-// p i_like_sports && i_like_knitting
+console.log('The string "apple" is not equal to "apple"')
+// my guess:
+// write the javascript code below
 
-// # We can see whether one of two booleans is true:
 
-// puts "I like sports or I like knitting:"
-// p i_like_sports || i_like_knitting
+console.log('The string "apple" is not equal to "orange""')
+// my guess:
+// write the javascript code below
 
-// puts "I like knitting or I like dogs:"
-// p i_like_knitting || i_like_dogs
+
+// This works with variables too!
+var myFavoriteColor = "blue"
+
+console.log('The variable myFavoriteColor is equal to the string "blue"')
+// my guess:
+// write the javascript code below
+
+console.log('The variable myFavoriteColor is not equal to the string "red"')
+// my guess:
+// write the javascript code below
+
+console.log('The variable myFavoriteColor is equal to the string "purple"')
+// my guess:
+// write the javascript code below
+
+
+
+// These variables are all booleans 
+// We can see whether two booleans are both true using && (AND)
+var likesComputers = true;
+var likesSports = true;
+var likesKnitting = false;
+var likesDogs = false;
+var likesCats = true;
+
+
+// Predict if the combination will be true, then code it out to see if you're right.
+console.log("I like computers and I like sports")
+// my guess: 
+// write the javascript code below
+
+
+// We can see whether one of two booleans is true using || (OR)
+console.log("I like sports and I like knitting")
+// my guess: 
+// write the javascript code below
+
+
+console.log("I like knitting or I like dogs")
+// my guess: 
+// write the javascript code below
+
+
 });
