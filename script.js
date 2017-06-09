@@ -1,12 +1,18 @@
 document.addEventListener('DOMContentLoaded', function() {
 // We can compare numbers
-//Answer each question, then console log the code version to see if you get true or false.
-console.log("Is 10 is less than 150?")
-// 
-console.log(10 < 150)
+//Predict true or false. Then, console log the code version to see if you were right.
 
-// puts "1 is greater than or equal to 0:"
-// puts 1 >= 0
+/////////////////////
+//////EXAMPLE///////
+///////////////////
+console.log("10 is less than 150?")
+// my guess: true
+console.log(10 < 150)
+/////////////////
+
+console.log("1 is greater than or equal to 0:") 
+// my guess: 
+
 
 // # We can check whether data matches
 // # or does not match (works on any type)
