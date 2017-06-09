@@ -1,11 +1,11 @@
 # Javascript Comparison Operators
 
-| Operator      |           | Cool  |
-| ------------- |:-------------:| -----:|
-| ==            | right-aligned | $1600 |
-| ===           | centered      |   $12 |
-| !=            | are neat      |    $1 |
-| <=            | are neat      |    $1 |
-| >=            | are neat      |    $1 |
-| <             | are neat      |    $1 |
-| >             | are neat      |    $1 |
+| Operator      |   Meaning                  |
+| ------------- |:--------------------------:| 
+| ==            | equality                   |
+| ===           | strict-equality            |
+| !=            | not equal to               |
+| <=            | less than or equal to      |
+| >=            | greater than or equal to   |
+| <             | less than                  |
+| >             | greater than               |
