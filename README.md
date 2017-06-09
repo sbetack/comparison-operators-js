@@ -9,9 +9,10 @@
 | >=            | greater than or equal to   |
 | <             | less than                  |
 | >             | greater than               |
-| `||`          | or                         |
-| &&            | and                        |
 
+
+&& is use to symbolize AND
+|| is used to symbolize OR
 
 
 ### Your mission:
