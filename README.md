@@ -14,7 +14,7 @@
 
 
 ### Your mission:
-* Make the table above in `index.html`
+* Recreate the table above in `index.html` using HTML
 * Open `index.html` in the browser
 * Open the developer tools chrome console (see previous lesson if you forget how to get there)
 * Follow the rest of the directions in `script.js`
